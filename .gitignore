@@ -34,7 +34,7 @@ scripts/__pycache__/
 *.step
 *.pdf
 *.Cam
-*.zip
+
 *.xlsx
 *.html
 *.txt
